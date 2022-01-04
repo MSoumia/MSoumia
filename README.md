@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSoumia
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Software projects or tools
 - 📫 How to reach me soumiamamoune@gmail.com
 
